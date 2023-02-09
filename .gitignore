@@ -1,0 +1,7 @@
+# Videos and images
+*.avi
+*.png
+media/
+
+# MATLAB autosaves
+*.asv
